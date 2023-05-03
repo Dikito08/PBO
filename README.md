@@ -1,4 +1,4 @@
 # PBO
-Nama      : Muhammad Dzikri\n
-NIM       : 1217050090\n
+Nama      : Muhammad Dzikri
+NIM       : 1217050090
 Kelas B
